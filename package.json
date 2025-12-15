@@ -1,12 +1,12 @@
 {
-"name": "ASITHA-MD",
+"name": "gayya-gm",
 "version": "6.0.0",
 "description": "A WhatsApp bot created using Node.js",
 "main": "start.js",
   "type": "commonjs",
   "scripts": {
     "start": "pm2 start start.js --deep-monitoring --attach --name ASITHA-MD",
-    "stop": "pm2 stop ASITHA-MD",
+    "stop": "pm2 stop gayya-gm",
     "restart": "pm2 restart ASITHA-MD"
   },
   "dependencies": {
